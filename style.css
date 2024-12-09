@@ -1,0 +1,881 @@
+.header_container--img {
+width: 130px;
+height: 28px;
+top: 3px;
+left: 51px;
+gap: 0px;
+opacity: 0px;
+}
+
+.header_container--link {
+font-family: Graphik LC TT;
+font-size: 15px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.header_content--LogIn {
+font-family: Graphik LC TT;
+font-size: 16px;
+font-weight: 600;
+line-height: 45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+background-color: #FFFFFF;
+}
+
+.header_content--TryItFree {
+font-family: Graphik LC TT;
+font-size: 16px;
+font-weight: 600;
+line-height: 45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+background-color: #FF6336;
+}
+
+.accelerate_container--title {
+font-family: Graphik LC TT;
+font-size: 65px;
+font-weight: 600;
+line-height: 70px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+
+.accelerate_container--text {
+font-family: Graphik LC TT;
+font-size: 25px;
+font-weight: 400;
+line-height: 35px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+
+.accelerate_container--buttons--first {
+font-family: Graphik LC TT;
+font-size: 16px;
+font-weight: 600;
+line-height: 60px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+width: 160px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+background-color: #FF6336;
+}
+
+.accelerate_container--buttons--second {
+font-family: Graphik LC TT;
+font-size: 16px;
+font-weight: 600;
+line-height: 60px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: #FFFFFF;
+}
+
+.accelerate_container--info {
+font-family: Graphik LC TT;
+font-size: 15px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.accelerate_container img {
+width: 759px;
+height: 529px;
+top: 246px;
+left: 614px;
+gap: 0px;
+opacity: 0px;
+}
+
+.Sponsors--title {
+font-family: Graphik LC TT;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.Sponsors_container {
+    background-color: #FF9C7D;
+}
+
+.Sponsors_container img {
+width: 138px;
+height: 53px;
+left: 27px;
+padding: 0px 0.07px 0px 0.11px;
+gap: 0px;
+opacity: 0px;
+margin: 35px;
+}
+
+.info_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--text {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.info_container--gif {
+width: 632px;
+height: 632px;
+gap: 0px;
+opacity: 0px;
+}
+
+.info_container--gif {
+width: 632px;
+height: 632px;
+gap: 0px;
+opacity: 0px;
+}
+
+.info_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--link {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--text {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.info_container--content--link {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.info_container--gif {
+    width: 632px;
+    height: 632px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.info_container--gif {
+width: 632px;
+height: 577px;
+gap: 0px;
+opacity: 0px;
+}
+
+.info_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.info_container--content--text {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.info_container--content--link {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.lokalise_title {
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--image {
+width: 160px;
+height: 120px;
+top: 21px;
+left: 85px;
+gap: 0px;
+opacity: 0px;
+}
+
+.lokalise_container--content--title {
+font-family: Graphik LC TT;
+font-size: 25px;
+font-weight: 600;
+line-height: 35px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.lokalise_container--content--text {
+font-family: Graphik LC TT;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.lokalise_container--content--image {
+width: 160px;
+height: 120px;
+top: 21px;
+left: 85px;
+gap: 0px;
+opacity: 0px;
+}
+
+.lokalise_container--content--title {
+font-family: Graphik LC TT;
+font-size: 25px;
+font-weight: 600;
+line-height: 35px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.lokalise_container--content--text {
+font-family: Graphik LC TT;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.lokalise_container--content--image {
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.lokalise_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--image {
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.lokalise_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--image {
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.lokalise_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--image {
+    width: 160px;
+    height: 120px;
+    top: 21px;
+    left: 85px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.lokalise_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.lokalise_container--content--text {
+font-family: Graphik LC TT;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.product_title {
+font-family: Graphik LC TT;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.product_container--content--image {
+    width: 145px;
+    height: 201px;
+    top: 50px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.product_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--link {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--image {
+width: 179px;
+height: 166px;
+top: 67px;
+left: 0.02px;
+gap: 0px;
+opacity: 0px;
+}
+
+.product_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--link {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--image {
+    width: 179px;
+    height: 183px;
+    top: 59px;
+    left: 0.03px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.product_container--content--title {
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--text {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.product_container--content--link {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.evolut_container--text {
+    width: 179px;
+    height: 183px;
+    top: 59px;
+    left: 0.03px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.revolut_container--text {
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.revolut_container--name {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.revolut_container--image {
+    width: 310px;
+    height: 310px;
+    gap: 0px;
+    opacity: 0px;    
+}
+
+.cake_container--title {
+font-family: Graphik LC TT;
+font-size: 35px;
+font-weight: 600;
+line-height: 50px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.integrate_container--title {
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.integrate_container--text {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.integrate_container--buttons {
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: aliceblue;    
+    background-color: #FF6336;
+}
+
+.Easy--title {
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.Easy_container {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.Easy_container--buttons {
+    font-family: Graphik LC TT;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;    
+    background-color: #000000;
+}
+
+.Easy {
+width: 1290px;
+height: 645px;
+top: 8637px;
+left: 20px;
+gap: 0px;
+opacity: 0px;
+background-color: #FF9C7D;
+}
+
+.footer_container--title {
+    font-family: Graphik LC TT;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer_container--title--first {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer--list {
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer_container--title--second {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer--list {
+font-family: Graphik LC TT;
+font-size: 15px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.footer_container--title--third {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 600;
+line-height: 25px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.footer--list {
+font-family: Graphik LC TT;
+font-size: 15px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.footer_container--title--last {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer--list {
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;    
+}
+
+.footer_container--text {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.footer_container--title {
+font-family: Graphik LC TT;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+
+.footer_container--text--last {
+font-family: Graphik LC TT;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
